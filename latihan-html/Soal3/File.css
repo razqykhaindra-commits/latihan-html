@@ -1,0 +1,47 @@
+
+    header {
+      text-align: center;     
+    }
+
+    img {
+    width: 700px;
+    height: auto;
+    }
+
+    body {
+        text-align: justify;
+    }
+  
+    .h1 {
+   color: rgb(232, 102, 37);
+   text-decoration: underline;
+    }
+
+    .red {
+        color: red;
+        font-weight: 600;
+    }
+
+    .green {
+        color: rgb(53, 107, 2);
+        font-style: italic;
+        text-decoration: underline;
+    }
+
+    hr {
+        border: 1.5px solid black;
+    }
+
+    table {
+        text-align: center;
+        border-collapse: collapse;
+        border: 1px solid black;
+    }
+
+   table th, table td {
+        padding: 3px 8px 3px 8px;
+    }
+
+    .table2 {
+        text-align: left;
+    }
